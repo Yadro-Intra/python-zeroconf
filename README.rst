@@ -3,13 +3,24 @@ python-zeroconf
 
 .. image:: https://travis-ci.org/jstasiak/python-zeroconf.svg?branch=master
     :target: https://travis-ci.org/jstasiak/python-zeroconf
-    
+
 .. image:: https://img.shields.io/pypi/v/zeroconf.svg
     :target: https://pypi.python.org/pypi/zeroconf
 
 .. image:: https://img.shields.io/coveralls/jstasiak/python-zeroconf.svg
     :target: https://coveralls.io/r/jstasiak/python-zeroconf
 
+.. image:: https://img.shields.io/github/issues/Yadro-Intra/python-zeroconf.svg
+    :alt: GitHub issues
+
+.. image:: https://img.shields.io/github/forks/Yadro-Intra/python-zeroconf.svg
+    :alt: GitHub forks
+
+.. image:: https://img.shields.io/github/stars/Yadro-Intra/python-zeroconf.svg
+    :alt: GitHub stars
+
+.. image:: https://img.shields.io/badge/license-GPLv2-blue.svg
+    :alt: GitHub license
     
 This is fork of pyzeroconf, Multicast DNS Service Discovery for Python,
 originally by Paul Scott-Murphy (https://github.com/paulsm/pyzeroconf),
